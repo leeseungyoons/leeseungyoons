@@ -156,3 +156,5 @@ KT 에이블스쿨에서 수행한 프로젝트로,
 
 - GitHub: [https://github.com/leeseungyoons](https://github.com/leeseungyoons)  
 - Email: [lieme980@gmail.com](mailto:lieme980@gmail.com)
+- portfolio:https://leeseungyoons.github.io/ai-portfolio-site/
+- Tel.01041839802
