@@ -5,6 +5,7 @@
 
 - GitHub: [https://github.com/leeseungyoons](https://github.com/leeseungyoons)
 - Email: [lieme980@gmail.com](mailto:lieme980@gmail.com)
+- portfolio:https://leeseungyoons.github.io/ai-portfolio-site/
 
 ---
 
