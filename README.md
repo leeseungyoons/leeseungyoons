@@ -1,6 +1,6 @@
 # 👋 이승윤 (Lee Seungyoon)
 
-강남대학교 인공지능융합공학부 인공지능전공 4학년,  
+강남대학교 인공지능융합공학부 인공지능전공 졸업 
 스포츠, 공공데이터, 센서 데이터 등 **현실 데이터를 AI로 분석하고 서비스로 연결하는 것**에 관심이 많은 예비 AI 엔지니어입니다.
 
 - GitHub: [https://github.com/leeseungyoons](https://github.com/leeseungyoons)
