@@ -1,7 +1,7 @@
 # 이승윤 | AI & ML Engineer
 
 > **데이터에서 끝나지 않고, 서비스까지 연결하는 AI 엔지니어를 지향합니다.**  
-> 예측 모델, NLP, 추천/분석 시스템, 에이전트 워크플로우를 만들고  
+> 예측 모델, NLP, 추천/분석 시스템, Agent 워크플로우를 만들고  
 > 그 결과가 실제 사용자와 의사결정에 쓰이도록 구현하는 과정에 집중해왔습니다.
 
 ---
@@ -13,13 +13,8 @@
 **데이터 수집 → 전처리 → 모델링 → 결과 해석 → 서비스 연결**까지  
 하나의 흐름으로 구현하는 것을 좋아합니다.
 
-대학 프로젝트와 KT AIVLE School 과정을 거치며 다음과 같은 경험을 쌓았습니다.
-
-- **시계열 예측**: 풍력 발전량 예측, K-Food 수요 예측
-- **NLP**: 스포츠 기사 감성분석, ABSA 기반 VOC 정량화
-- **추천/탐색 서비스**: 광고 없는 맛집 추천 앱, 데이터 기반 서비스 기획
-- **Agent 시스템**: AI 면접관 Agent, AI 강사 Agent
-- **서비스 구현**: Streamlit, React Native, 웹 연동, JSON 파이프라인 구성
+대학 프로젝트와 다양한 팀 프로젝트, KT AIVLE School 과정을 거치며  
+시계열 예측, NLP, 추천 시스템, 에이전트 워크플로우, 웹 서비스 연결까지 경험해왔습니다.
 
 저는 앞으로도 **모델을 잘 만드는 사람**을 넘어서,  
 **AI를 실제 서비스와 제품으로 연결할 수 있는 ML/AI Engineer**로 성장하는 것이 목표입니다.
@@ -29,14 +24,14 @@
 ## 🏆 Achievements
 
 - **한국정보통신학회 춘계종합학술대회 학생논문우수상**  
-  - *건물 화재 피난자 행동 분석 기반 최적 피난 경로 탐색 연구*
+  - 건물 화재 피난자 행동 분석 기반 최적 피난 경로 탐색 연구
 
 - **대학 학술제 수상**  
-  - *미로 탈출 게임 프로젝트 출품 및 수상*
+  - 미로 탈출 게임 프로젝트 출품 및 수상
 
-- **공모전 프로젝트**
-  - 기상·설비 데이터 기반 **풍력 발전량 예측 모델 개발**
-  - **경력단절 여성 재취업 지원** 데이터 기반 서비스 기획
+- **공모전 프로젝트 경험**
+  - 기상·설비 데이터 기반 풍력 발전량 예측(시계열 회귀) 모델 개발
+  - 경력단절 여성 재취업 지원 데이터 기반 서비스 기획
 
 ---
 
@@ -57,8 +52,8 @@
 - JSON 스키마 표준화
 - 도움말 챗봇 및 레시피 챗봇 연결
 
-**핵심 키워드**  
-`LightGBM` `XGBoost` `Python` `Pandas` `NLP` `ABSA` `LangGraph` `JSON Pipeline`
+**Tech**
+`Python` `LightGBM` `XGBoost` `Pandas` `NLP` `ABSA` `LangGraph` `JSON`
 
 ---
 
@@ -72,7 +67,7 @@
 - 답변 평가 및 후속 질문 생성
 - 최종 인터뷰 리포트 자동 작성
 
-**핵심 키워드**  
+**Tech**
 `LangGraph` `LLM` `Prompt Engineering` `Workflow Design`
 
 ---
@@ -86,7 +81,7 @@
 - 요약 / 퀴즈 / 과제 / 피드백 자동화
 - 교육용 Agent 구조 설계
 
-**핵심 키워드**  
+**Tech**
 `LLM` `Agent` `Education AI` `LangGraph`
 
 ---
@@ -102,7 +97,7 @@
 - 광고 키워드 필터링
 - 추천 점수 로직 설계
 
-**핵심 키워드**  
+**Tech**
 `Streamlit` `Python` `Kakao API` `Naver API` `Filtering` `Ranking`
 
 ---
@@ -115,7 +110,7 @@
 - 기사 도메인 기반 감성분석 수행
 - NLP 모델링 경험 축적
 
-**핵심 키워드**  
+**Tech**
 `NLP` `Text Classification` `Sentiment Analysis` `Python`
 
 ---
@@ -129,7 +124,7 @@ React Native와 OpenAI GPT-3.5를 활용해
 - 모바일 앱 구조 설계
 - 사용자 입력 기반 스토리 생성 기능 구현
 
-**핵심 키워드**  
+**Tech**
 `React Native` `OpenAI API` `Mobile App`
 
 ---
@@ -143,7 +138,7 @@ React Native와 OpenAI GPT-3.5를 활용해
 - UI/UX 및 디자인 총괄
 - 시야 제한 / 추격 요소 등 게임성 반영
 
-**핵심 키워드**  
+**Tech**
 `Python` `Game Logic` `UI/UX` `Team Leadership`
 
 ---
@@ -158,27 +153,20 @@ React Native와 OpenAI GPT-3.5를 활용해
 - 데이터셋 관리 모듈 구현
 - 강화학습 확장 가능성 고려
 
-**핵심 키워드**  
+**Tech**
 `Deep Learning` `Framework Design` `Data Pipeline`
 
 ---
 
-## 🧠 What I’ve Worked On
+## 🧠 Other Project Experience
 
 - 건물 화재 피난자 행동 분석 기반 최적 피난 경로 탐색 연구
-- 미로 탈출 게임 프로젝트
 - 풍력 발전량 예측 시계열 회귀 모델
 - 경력단절 여성 재취업 지원 데이터 기반 서비스 기획
 - 액티브 시니어 문화·관광 통합 데이터 앱 기획
 - 신입생 GoGoGo 챗봇 개발
-- 인공지능 작가 개인 앱 개발
 - 자율주행 컴퓨터비전 실습
-- 광고 없는 맛집 탐색 앱 개발
-- 스포츠 기사 감성분석 프로젝트
-- 딥러닝 프레임워크 설계 프로젝트
-- AI 면접관 Agent
-- AI 강사 Agent
-- K-Food 수출·현지화 플랫폼
+- 데이터 기반 서비스 기획 프로젝트 다수 수행
 
 ---
 
@@ -206,6 +194,7 @@ React Native와 OpenAI GPT-3.5를 활용해
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![React Native](https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Spring Boot](https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -214,15 +203,15 @@ React Native와 OpenAI GPT-3.5를 활용해
 
 ---
 
-## 📌 My Repositories
+## 📌 Main Repositories
 
-- `kfood-export-localization-platform`
-- `ai-lecture-agent`
-- `ad-free-restaurant-recommender`
-- `sports-news-sentiment-analysis`
-- `ai-portfolio-site`
-- `DeepLearning-Framework-Lab`
-- `h-group-scenario`
+- [kfood-export-localization-platform](https://github.com/leeseungyoons/kfood-export-localization-platform)
+- [ai-lecture-agent](https://github.com/leeseungyoons/ai-lecture-agent)
+- [ad-free-restaurant-recommender](https://github.com/leeseungyoons/ad-free-restaurant-recommender)
+- [sports-news-sentiment-analysis](https://github.com/leeseungyoons/sports-news-sentiment-analysis)
+- [ai-portfolio-site](https://github.com/leeseungyoons/ai-portfolio-site)
+- [DeepLearning-Framework-Lab](https://github.com/leeseungyoons/DeepLearning-Framework-Lab)
+- [h-group-scenario](https://github.com/leeseungyoons/h-group-scenario)
 
 ---
 
@@ -235,21 +224,21 @@ React Native와 OpenAI GPT-3.5를 활용해
 
 ## 🌱 I’m Growing As
 
-- **문제를 데이터 관점으로 정의하는 사람**
-- **모델 결과를 서비스로 연결하는 사람**
-- **실험과 구조화를 함께 보는 ML Engineer**
-- **계속 배우고, 끝까지 구현하는 사람**
+- 문제를 **데이터 관점으로 정의하는 사람**
+- 모델 결과를 **서비스와 사용자 경험으로 연결하는 사람**
+- 실험과 구조화를 함께 보는 **ML Engineer**
+- 계속 배우고, 끝까지 구현하는 **AI Engineer**
 
 ---
 
 ## 📫 Contact
 
-- Email: `lieme980@gmail.com`
-- GitHub: `https://github.com/leeseungyoons`
-- Portfolio: `https://leeseungyoons.github.io/ai-portfolio-site/`
+- **Email**: [lieme980@gmail.com](mailto:lieme980@gmail.com)
+- **Portfolio**: [leeseungyoons.github.io/ai-portfolio-site](https://leeseungyoons.github.io/ai-portfolio-site/)
+- **GitHub**: [github.com/leeseungyoons](https://github.com/leeseungyoons)
 
 ---
 
 ## 한 줄 소개
 
-**“예측, 분석, NLP, Agent를 만들고 끝내지 않고, 실제 서비스와 사용자 경험까지 연결하는 AI 엔지니어 이승윤입니다.”**
+**예측, 분석, NLP, Agent를 만들고 끝내지 않고, 실제 서비스와 사용자 경험까지 연결하는 AI 엔지니어 이승윤입니다.**
